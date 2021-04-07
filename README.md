@@ -1,3 +1,3 @@
 # Dice-Game
 
-If you want to play the game in your web browser [click here.](http://dicegame.lovestoblog.com/)
+If you want to play the game in your web browser [click here.](https://dicegame-project.netlify.app/)
